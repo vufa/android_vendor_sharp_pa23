@@ -45,6 +45,8 @@ PRODUCT_COPY_FILES += \
     vendor/sharp/PA23/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/sharp/PA23/proprietary/lib/libbattlog.so:system/lib/libbattlog.so \
     vendor/sharp/PA23/proprietary/lib/libshdisp.so:system/lib/libshdisp.so \
+    vendor/sharp/PA23/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
+    vendor/sharp/PA23/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/sharp/PA23/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/sharp/PA23/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/sharp/PA23/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
