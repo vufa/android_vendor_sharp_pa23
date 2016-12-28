@@ -93,3 +93,7 @@ PRODUCT_COPY_FILES += \
  vendor/sharp/PA23/proprietary/vendor/lib/libqmi_csvt_srvc.so:system/vendor/lib/libqmi_csvt_srvc.so \
  vendor/sharp/PA23/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
  vendor/sharp/PA23/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so
+
+#Framework
+PRODUCT_COPY_FILES += \
+ vendor/sharp/PA23/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar
