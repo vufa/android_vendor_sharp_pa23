@@ -61,6 +61,10 @@ PRODUCT_COPY_FILES += \
  vendor/sharp/PA23/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
  vendor/sharp/PA23/proprietary/lib/libshdisp.so:system/lib/libshdisp.so \
  vendor/sharp/PA23/proprietary/bin/qseecomd:system/bin/qseecomd \
+ vendor/sharp/PA23/proprietary/bin/rfs_access:system/bin/rfs_access \
+ vendor/sharp/PA23/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+ vendor/sharp/PA23/proprietary/bin/ptt_socket_app:system/bin/ptt_socket_app \
+ vendor/sharp/PA23/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
  vendor/sharp/PA23/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
  vendor/sharp/PA23/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
  vendor/sharp/PA23/proprietary/vendor/lib/libdrmdiag.so:system/vendor/lib/libdrmdiag.so \
